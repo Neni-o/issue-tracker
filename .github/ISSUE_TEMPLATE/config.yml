@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions (questions & support)
+    url: https://github.com/YOUR_USER/YOUR_REPO/discussions
+    about: Ask questions, get setup help, and general support here.
+  - name: 📦 Mod pages (Modrinth / CurseForge)
+    url: https://modrinth.com/user/YOUR_USER
+    about: Downloads and mod descriptions.
